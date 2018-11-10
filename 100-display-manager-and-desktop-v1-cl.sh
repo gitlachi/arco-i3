@@ -45,6 +45,7 @@ bash_profile für autologin
 
 dmenu…
 atom
+luakit
 
 
 
