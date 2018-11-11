@@ -10,7 +10,6 @@ set -e
 
 
 keine ahnung – alles komisch…
-test-edit
 
 
 echo "#################################"
