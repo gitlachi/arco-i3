@@ -73,7 +73,7 @@ echo "Installing category Multimedia"
 # sudo pacman -S --noconfirm --needed pragha
 #sudo pacman -S --noconfirm --needed shotwell
 # sudo pacman -S --noconfirm --needed simplescreenrecorder
----- sudo pacman -S --noconfirm --needed smplayer
+sudo pacman -S --noconfirm --needed smplayer
 #### sudo pacman -S --noconfirm --needed vlc
 sudo pacman -S --noconfirm --needed audacious
 sudo pacman -S --noconfirm --needed mixxx
@@ -96,9 +96,9 @@ echo "Installing category System"
 #sudo pacman -S --noconfirm --needed archey3
 #### sudo pacman -S --noconfirm --needed baobab
 #sudo pacman -S --noconfirm --needed bleachbit
-#### sudo pacman -S --noconfirm --needed curl
+sudo pacman -S --noconfirm --needed curl
 sudo pacman -S --noconfirm --needed dconf-editor
-#### sudo pacman -S --noconfirm --needed dmidecode
+sudo pacman -S --noconfirm --needed dmidecode
 sudo pacman -S --noconfirm --needed ffmpegthumbnailer
 sudo pacman -S --noconfirm --needed git
 sudo pacman -S --noconfirm --needed glances
@@ -114,7 +114,7 @@ sudo pacman -S --noconfirm --needed gvfs gvfs-mtp
 sudo pacman -S --noconfirm --needed hardinfo
 #### sudo pacman -S --noconfirm --needed hddtemp
 #### sudo pacman -S --noconfirm --needed htop
-#### sudo pacman -S --noconfirm --needed lm_sensors
+sudo pacman -S --noconfirm --needed lm_sensors
 #### sudo pacman -S --noconfirm --needed lsb-release
 sudo pacman -S --noconfirm --needed mlocate
 sudo pacman -S --noconfirm --needed net-tools
