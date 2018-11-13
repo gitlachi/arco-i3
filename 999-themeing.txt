@@ -1,0 +1,2 @@
+icons: masalla
+theme: arc -> dark/darker?? oder normal!?
